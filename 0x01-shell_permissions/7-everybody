@@ -1,2 +1,2 @@
 #!/bin/bash
-echmod 111 hello
+chmod ugo+x hello
