@@ -1,1 +1,1 @@
-This project is about Shell Redirection
+shell input output redirection and filters
